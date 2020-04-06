@@ -1,0 +1,195 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin-top: 0;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 3.125em auto;
+}
+p{
+  line-height: 2;
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6
+}
+/*------------------Classes--------------------*/
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px
+}
+
+.data{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.top-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.circular{
+  border-radius: 100%;
+}
+.data-science{
+  width: 50%;
+  float: left;
+  margin-right: 30em;
+}
+.data-scientist{
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+.web-designing{
+  width: 50%;
+  float: right;
+  margin-left: 30em;
+}
+.Eaton{
+  width: 15.625em;
+  height: 7.8125em;
+  margin-right: 2.5em;
+  margin-bottom: 0.625em;
+  /*position: relative;
+  right: 3.125em;*/
+}
+.Eaton:hover {
+  opacity: 0.5
+}
+.Nepa{
+  width: 15.625em;
+  height: 11.25em;
+  margin-left: 2.5em;
+  /*position: relative;
+  top: 0.625em;
+  left: 4.375em;*/
+}
+.Nepa:hover {
+  opacity: 0.5
+}
+.work-experience{
+  padding: 1.5625em;
+  display: inline-block;
+}
+.footer-link{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: 3.125em auto 3.125em auto;
+  text-align: center;
+}
+.skills-table{
+  margin: 50px auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 20px 0 20px;
+}
+.Copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding:20px 0;
+}
+
+.middle-container{
+  margin: 50px 0;
+}
+.contact-lines{
+  width: 40%;
+  margin: 30px auto 40px auto;
+}
+
+.btn {
+	background-color:#66BFBF;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+  text-indent:0;
+	border:1px solid #66BFBF;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+  height:50px;
+	line-height:50px;
+  width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0 1px 0 #66BFBF;
+}
+.btn:hover {
+	background-color:#2bc4ad;
+}
+.tblimgR{
+  height: 3em;
+  width: 3em;
+}
+.tblimgPy{
+  height: 3em;
+  width: 6em;
+}
+.tblimgBI{
+  height: 3em;
+  width: 6em;
+}
+.tblimgExl{
+  height: 3em;
+  width: 3em;
+}
+.tblimghtml{
+  height: 3em;
+  width: 3em;
+}
+.tblimgcss{
+  height: 3em;
+  width: 3em;
+}
+.tblimgacc{
+  height: 3em;
+  width: 3em;
+}
+.tblimgsql{
+  height: 3em;
+  width: 6em;
+}
