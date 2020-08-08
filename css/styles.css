@@ -108,6 +108,10 @@ a:hover{
   margin: 3.125em auto 3.125em auto;
   text-align: center;
 }
+.Intro{
+  width: 50%;
+  margin: 3.125em auto 3.125em auto;	
+}	
 .skills-table{
   margin: 50px auto;
 }
